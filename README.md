@@ -6,4 +6,4 @@
 
 В вёрстке проекта построена файловая структура по БЭМ.
 
-Ссылка на данный проект на сайте GitHub Pages: https://gabealena.github.io/russian-travel2/.
+Ссылка на данный проект на сайте GitHub Pages: https://gabealena.github.io/russian-travel/.
