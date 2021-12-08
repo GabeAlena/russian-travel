@@ -1,11 +1,9 @@
 @font-face {
     src:
-    url(../fonts/Inter-3.19/Inter\ Desktop/Inter-Medium.otf),
-    url(../fonts/Inter-3.19/Inter\ Hinted\ for\ Windows/Desktop/Inter-Medium.ttf),
-    url(../fonts/Inter-3.19/Inter\ Hinted\ for\ Windows/Web/Inter-Medium.woff),
-    url(../fonts/Inter-3.19/Inter\ Hinted\ for\ Windows/Web/Inter-Medium.woff2),
-    url(../fonts/Inter-3.19/Inter\ Web/Inter-Medium.woff),
-    url(../fonts/Inter-3.19/Inter\ Web/Inter-Medium.woff2);
+    url(../fonts/Inter-Medium.otf),
+    url(../fonts/Inter-Medium.ttf),
+    url(../fonts/Inter-Medium.woff),
+    url(../fonts/Inter-Medium.woff2);
     font-family: 'Inter';
     font-weight: normal;
 }
