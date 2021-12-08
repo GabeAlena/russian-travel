@@ -1,13 +1,15 @@
-.header__lang-link_ru {
-  text-decoration: underline;
+.header__lang-links {
   margin: 0;
-  padding-right: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
   font-size: 24px;
   line-height: 28px;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 568px){
-  .header__lang-link_ru {
+  .header__lang-links {
     font-size: 18px;
     line-height: 20px;
   }

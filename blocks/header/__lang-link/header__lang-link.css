@@ -1,6 +1,4 @@
-.header__lang-link {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-end;
-  padding-right: 0;
+.header__lang-link:first-of-type {
+  margin-right: 18px;
+  text-decoration: underline;
 }
