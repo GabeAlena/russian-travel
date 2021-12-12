@@ -1,4 +1,12 @@
+.header__lang-link {
+  transition: opacity .3s ease;
+}
+
+.header__lang-link:hover {
+  opacity: 80%;
+}
+
 .header__lang-link:first-of-type {
   margin-right: 18px;
-  text-decoration: underline;
+  color: white;
 }
