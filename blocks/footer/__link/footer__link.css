@@ -13,6 +13,13 @@
   margin-right: 0;
 }
 
+@media screen and (max-width: 984px) {
+  .footer__link {
+    margin-right: 1.83vw;
+    font-size: 2.03vw;
+  }
+}
+
 @media screen and (max-width: 568px) {
   .footer__link {
     font-size: 24px;

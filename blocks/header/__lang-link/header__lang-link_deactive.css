@@ -1,4 +1,7 @@
 .header__lang-link_deactive {
   text-decoration: none;
-  color: white;
+}
+
+.header__lang-link_deactive:first-of-type {
+  margin-right: 0;
 }
