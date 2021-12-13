@@ -18,9 +18,17 @@
   }
 }
 
+/*@media screen and (max-width: 767px) {
+  .intro {
+    max-width: 100%;
+  }
+}*/
+
 @media screen and (max-width: 568px) {
   .intro {
-    margin-left: 16px;
-    margin-right: 16px;
+    width: 100%;
+    margin: 0;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
