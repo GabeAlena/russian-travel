@@ -2,6 +2,7 @@
   color: white;
   transition: opacity .3s ease;
   margin-right: 18px;
+  text-decoration: none;
 }
 
 .header__lang-link:hover {

@@ -1,10 +1,14 @@
 .place__paragraph {
   margin-top: 0;
-  margin-bottom: 26px;
   grid-area: place__paragraph;
 }
 
+.place__paragraph:nth-child(1n) {
+  margin-bottom: 0;
+}
+
 .place__paragraph:nth-child(2n) {
+  margin-top: 26px;
   margin-bottom: 0;
 }
 

@@ -1,5 +1,6 @@
 .header__lang-links {
   margin: 0;
+  margin-bottom: 6px;
   display: flex;
   flex-direction: row;
   align-items: flex-end;
@@ -8,9 +9,14 @@
   list-style-type: none;
 }
 
+.header__lang-links:first-of-type {
+  margin-right: 0;
+}
+
 @media screen and (max-width: 568px){
   .header__lang-links {
     font-size: 18px;
     line-height: 20px;
+    margin-bottom: 8px;
   }
 }

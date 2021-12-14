@@ -5,6 +5,7 @@
   height: 100%;
   grid-area: place__image;
   object-fit: cover;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1140px) {
